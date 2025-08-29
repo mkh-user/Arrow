@@ -11,6 +11,9 @@ Arrow is the free, open-source and feature-rich tool for
 *game narrative* design, *text-adventure* development,
 and creation of *interactive nonlinear storytelling* documents.
 
+> [!Note]
+> This repo is my rework of Arrow, see source repo for orginal version.
+
 ![Arrow's Overall Look][arrow-screenshot]
 
 Notable Features:
